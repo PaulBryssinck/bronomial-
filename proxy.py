@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#la ligne supérieur permet quand on lance le programme de le charger
+#la ligne supérieur permet quand on lance le programme sans le charger
 #dans python. (en plus comme ça on sait que c'est du python directement)
 
 #voir docu détaillée dans le word réseau_2 - proxy
